@@ -1,0 +1,6 @@
+<Connection to github via git>
+	git clone (url)                                 --url of the directory of github
+	git add (filename)                              --after making the file, add the file to git       
+		git status                              --status of the file to see if its added to git
+	git commit -m "(committed message)" filename     --commit the file with message and filename
+	git push -u origin main			        --push file to github
